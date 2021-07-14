@@ -17,6 +17,7 @@ public class reg extends AppCompatActivity {
     Button auth, reg;
     private int AUTH_RESULT = 1;
     private ConstraintLayout regs;
+    Button hjj;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
